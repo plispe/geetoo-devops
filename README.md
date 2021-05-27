@@ -58,3 +58,7 @@ DevOps aims at shorter development cycles, increased deployment frequency, more 
 * Continous Delivery (CD): the practice of continously maintaining code in deployable state
 
 * Regardles of whether or not the decision is made to deploy, the code is always in a state that is able to be deployed
+
+# Standard Software Development
+
+Dev team -> QA team -> Operatio team
