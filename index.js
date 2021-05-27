@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const {PORT: port = 3000} = process.env
+const { PORT: port = 3000 } = process.env
 const { getMessage } = require('./src/functions')
 
 app.get('/', (req, res) => {
