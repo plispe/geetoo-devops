@@ -62,3 +62,4 @@ DevOps aims at shorter development cycles, increased deployment frequency, more 
 # Standard Software Development
 
 Dev team -> QA team -> Operatio team
+
